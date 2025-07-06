@@ -1,14 +1,14 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Lauren E. Altman",
+    "email": "laurenealtman@gmail.com",
+    "phone": "+1-845-825-1071",
+    "website": "https://laurenealtmanacademicpage.github.io",
+    "summary": "Center for Soft and Living Matter Postdoctoral Fellow, University of Pennsylvania",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
+      "city": "Philadelphia, PA",
       "countryCode": "US",
       "region": ""
     },
@@ -16,46 +16,37 @@
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.com/citations?user=al8Ymn0AAAAJ&hl=en"
       },
       {
         "network": "ORCID",
         "username": "",
-        "url": "http://orcid.org/yourorcidurl"
+        "url": "https://orcid.org/0000-0001-8952-9047"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "laltman2",
+        "url": "https://github.com/laltman2"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
+      "institution": "New York University",
+      "area": "Ph.D in Physics",
+      "studyType": "Center for Soft Matter Research",
       "startDate": "",
-      "endDate": "2018",
+      "endDate": "2022",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "Brown University",
+      "area": "Sc.B. in Mathematical Physics",
       "studyType": "",
       "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "endDate": "2016",
       "gpa": null,
       "courses": []
     }
