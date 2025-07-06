@@ -22,7 +22,7 @@ repository               : "laltman2/laltman2.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "defense_portrait.png"
+  avatar           : "defense_portrait.jpg"
   name             : "Lauren E. Altman"
   pronouns         : # example: "she/her"  
   bio              : "Center for Soft and Living Matter Postdoctoral Fellow"
