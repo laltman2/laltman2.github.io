@@ -1,6 +1,7 @@
 ---
 title: "In-line holographic microscopy with model-based analysis"
 collection: publications
+category: manuscripts
 permalink: /publication/2022-01-01-In-line-holographic-microscopy-with-model-based-analysis
 date: 2022-01-01
 venue: 'Nature Reviews Methods Primers'

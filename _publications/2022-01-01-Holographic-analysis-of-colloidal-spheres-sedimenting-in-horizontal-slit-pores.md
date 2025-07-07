@@ -1,6 +1,7 @@
 ---
 title: "Holographic analysis of colloidal spheres sedimenting in horizontal slit pores"
 collection: publications
+category: manuscripts
 permalink: /publication/2022-01-01-Holographic-analysis-of-colloidal-spheres-sedimenting-in-horizontal-slit-pores
 date: 2022-01-01
 venue: 'Physical Review E'

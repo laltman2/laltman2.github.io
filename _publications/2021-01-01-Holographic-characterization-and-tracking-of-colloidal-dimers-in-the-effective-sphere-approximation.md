@@ -1,6 +1,7 @@
 ---
 title: "Holographic characterization and tracking of colloidal dimers in the effective-sphere approximation"
 collection: publications
+category: manuscripts
 permalink: /publication/2021-01-01-Holographic-characterization-and-tracking-of-colloidal-dimers-in-the-effective-sphere-approximation
 date: 2021-01-01
 venue: 'Soft Matter'

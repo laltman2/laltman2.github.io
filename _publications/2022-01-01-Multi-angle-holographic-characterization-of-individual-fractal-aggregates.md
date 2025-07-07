@@ -1,6 +1,7 @@
 ---
 title: "Multi-angle holographic characterization of individual fractal aggregates"
 collection: publications
+category: manuscripts
 permalink: /publication/2022-01-01-Multi-angle-holographic-characterization-of-individual-fractal-aggregates
 date: 2022-01-01
 venue: 'Optics Express'

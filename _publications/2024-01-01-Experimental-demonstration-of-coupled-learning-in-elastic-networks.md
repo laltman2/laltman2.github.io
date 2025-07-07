@@ -1,6 +1,7 @@
 ---
 title: "Experimental demonstration of coupled learning in elastic networks"
 collection: publications
+category: manuscripts
 permalink: /publication/2024-01-01-Experimental-demonstration-of-coupled-learning-in-elastic-networks
 date: 2024-01-01
 venue: 'Physical Review Applied'

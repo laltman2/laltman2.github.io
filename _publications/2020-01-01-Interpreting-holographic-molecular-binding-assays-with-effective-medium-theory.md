@@ -1,6 +1,7 @@
 ---
 title: "Interpreting holographic molecular binding assays with effective medium theory"
 collection: publications
+category: manuscripts
 permalink: /publication/2020-01-01-Interpreting-holographic-molecular-binding-assays-with-effective-medium-theory
 date: 2020-01-01
 venue: 'Biomedical Optics Express'
