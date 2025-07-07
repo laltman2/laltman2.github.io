@@ -5,6 +5,7 @@ category: manuscripts
 permalink: /publication/2022-01-01-In-line-holographic-microscopy-with-model-based-analysis
 date: 2022-01-01
 venue: 'Nature Reviews Methods Primers'
+paperurl: 'https://www.nature.com/articles/s43586-022-00165-z'
 citation: ' Caroline Martin,  Lauren Altman,  Siddharth Rawat,  Anna Wang,  David Grier,  Vinothan Manoharan, &quot;In-line holographic microscopy with model-based analysis.&quot; Nature Reviews Methods Primers, 2022.'
 ---
-Use [Google Scholar](https://scholar.google.com/scholar?q=In+line+holographic+microscopy+with+model+based+analysis){:target="_blank"} for full citation
+[Access paper here](https://www.nature.com/articles/s43586-022-00165-z){:target="_blank"}
