@@ -71,10 +71,10 @@ author:
 publication_category:
   thesis:
     title: 'PhD Thesis'
-  manuscripts:
-    title: 'Journal Articles'    
   patents:
     title: 'Patents'
+  manuscripts:
+    title: 'Journal Articles'    
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
