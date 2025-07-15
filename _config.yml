@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Lauren E. Altman / Academic Profile"
+title                    : "Lauren E. Altman, PhD"
 title_separator          : "-"
 name                     : &name "Lauren E. Altman"
 description              : &description "personal description"
