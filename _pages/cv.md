@@ -11,35 +11,23 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Physics, Center for Soft Matter Research, New York University, 2022
+  * Advisor: David Grier
+* Sc.B. with Honors in Mathematical Physics, Brown University, 2016
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2023-Present: Center for Soft and Living Matter Postdoctoral Fellow
+  * University of Pennsylvania, Philadelphia PA
+  * Advisor: Doug Durian
+* 2017: Backend Web Development Intern
+  * Favful, Kuala Lumpur, Malaysia
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming: Python, C++, Javascript, MatLab, Mathematica, LaTeX, LabView, Arduino, Altium
+* Machine Learning: PyTorch, Tensorflow, Keras
+* Experiments: Video Microscopy, Optical Trapping, Holographic Particle Characterization, PCB design, Circuitry, Soft Robotics
 
 Publications
 ======
@@ -61,4 +49,20 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Journal Referee: Applied Optics, Nature Photonics, APL Bioengineering
+* How to Navigate PhD Life Panelist
+  * Diversity Equity Engagement at Penn in STEM, 2023
+* DSOFT March Meeting Panelist
+  * APS Division of Soft Matter, 2023
+* Founding Member: Graduate Physics Organization for Research, Culture, and Education
+  * New York University, 2019-2022
+* Graduate Representative: Equity and Inclusion Committee
+  * New York University, 2020-2021
+* Executive Board Member: Women in Physics Chapter
+  * New York University, 2019-2020
+* Open House Graduate Student Panelist
+  * New York University, 2020
+* LGBT+ In Research Panelist
+  * New York University, 2018
+* Member: Physics Women in Science and Engineering
+  * Brown University, 2014-2016
