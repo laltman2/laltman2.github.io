@@ -2,6 +2,7 @@
 title: "Collective Hysteron Behavior in Nonlinear Flow Networks"
 collection: publications
 category: manuscripts
+image: ../images/NDR.png
 permalink: /publication/2025-01-01-Collective-Hysteron-Behavior-in-Nonlinear-Flow-Networks
 date: 2025-01-01
 venue: 'arXiv preprint arXiv:2502.05570'
