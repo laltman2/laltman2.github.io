@@ -2,7 +2,7 @@
 title: "Anomalous tumbling of colloidal ellipsoids in Poiseuille flows"
 collection: publications
 category: manuscripts
-image: ../images/ellipsoid_schematic.png
+image: ../images/ellipsoid_schematic02.png
 permalink: /publication/2023-01-01-Anomalous-tumbling-of-colloidal-ellipsoids-in-Poiseuille-flows
 date: 2023-01-01
 venue: 'Physical Review E'
