@@ -10,5 +10,5 @@ citation: ' Lauren Altman,  David Grier, &quot;CATCH: Characterizing and trackin
 ---
 [Access paper here](https://pubs.acs.org/doi/abs/10.1021/acs.jpcb.9b10463){:target="_blank"}
 <figure>
-  <img src="../images/CATCH_yolo.png">
+  <img style="float: right;" src="../images/CATCH_yolo.png">
 </figure>
