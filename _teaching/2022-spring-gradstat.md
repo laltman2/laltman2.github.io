@@ -5,7 +5,7 @@ type: "Graduate course"
 permalink: /teaching/2022-spring-gradstat
 venue: "New York University, Department of Physics"
 date: 2022-01-01
-location: "New York City, NY"
+location: "New York, NY"
 ---
 
 Recipient of the <b> Outstanding Graduate Student Instructor Award </b>.
